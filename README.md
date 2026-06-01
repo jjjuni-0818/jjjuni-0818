@@ -48,7 +48,7 @@
 ### GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jjjuni-0818&theme=flat&no-frame=true&column=7&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jjjuni-0818&theme=flat&no-frame=true&column=6&margin-w=10&no-bg=true"/>
 </p>
 
 ---
@@ -56,8 +56,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=jjjuni-0818&show_icons=true&theme=default&hide_border=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjjuni-0818&layout=compact&theme=default&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=jjjuni-0818&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjjuni-0818&layout=compact&theme=default&hide_border=true&cache_seconds=1800"/>
 </p>
 
 ### Streak
