@@ -48,7 +48,7 @@
 ### GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jjjuni-0818&theme=flat&no-frame=true&column=6&margin-w=10&no-bg=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jjjuni-0818&theme=flat&no-frame=true&column=6&margin-w=10"/>
 </p>
 
 ---
@@ -56,14 +56,21 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=jjjuni-0818&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=1800"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjjuni-0818&layout=compact&theme=default&hide_border=true&cache_seconds=1800"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=jjjuni-0818&show_icons=true&theme=default&hide_border=true&count_private=true" onerror="this.style.display='none'"/>
+  &nbsp;
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjjuni-0818&layout=compact&theme=default&hide_border=true" onerror="this.style.display='none'"/>
 </p>
 
 ### Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jjjuni-0818&theme=default&hide_border=true&date_format=Y.n.j"/>
+</p>
+
+### Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jjjuni-0818&theme=minimal&hide_border=true&area=true"/>
 </p>
 
 ---
