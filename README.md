@@ -24,7 +24,6 @@
 - **[ozcoding-dashboard](https://github.com/jjjuni-0818/ozcoding-dashboard)** — RxPulse · 제약회사 영업마케팅 대시보드 (CMS Medicare Part D). Python · JavaScript
 - **[netflix-dashboard](https://github.com/jjjuni-0818/netflix-dashboard)** — Netflix 콘텐츠 데이터 시각화 대시보드 (8,859건). HTML · Python
 - **[oz-ai-project](https://github.com/jjjuni-0818/oz-ai-project)** — AI 헬스케어 프로젝트
-- **[reading-rag-one-](https://github.com/jjjuni-0818/reading-rag-one-)** — RAG 기반 독서 도우미
 
 ---
 
