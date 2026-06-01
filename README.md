@@ -21,6 +21,7 @@
 
 ## 주요 프로젝트
 
+- **[Dacon_repository](https://github.com/jjjuni-0818/Dacon_repository)** — 🥇 데이콘 스트레스 지수 예측 AI 해커톤 1등 · 신체 데이터 기반 스트레스 점수 예측 · SVR(RBF) 최종 MAE 0.12769 달성. Python · LightGBM · SVR
 - **[ozcoding-dashboard](https://github.com/jjjuni-0818/ozcoding-dashboard)** — RxPulse · 제약회사 영업마케팅 대시보드 (CMS Medicare Part D). Python · JavaScript
 - **[netflix-dashboard](https://github.com/jjjuni-0818/netflix-dashboard)** — Netflix 콘텐츠 데이터 시각화 대시보드 (8,859건). HTML · Python
 - **[AI_02_06](https://github.com/AI-HealthCare-02/AI_02_06)** — FastAPI + AI Worker 기반 헬스케어 서비스 · CLOVA OCR 처방전 인식 · RAG 복약 가이드 생성 · Docker-Compose 풀스택 배포. Python · FastAPI · PostgreSQL · Redis · Docker
@@ -29,7 +30,7 @@
 
 ## 수상 · 수료
 
-- 🥇 **스트레스 지수 예측 AI 해커톤 1등** (2026.03.13 – 2026.03.23)
+- 🥇 **스트레스 지수 예측 AI 해커톤 1등** (2026.03.13 – 2026.03.23) · [Repo](https://github.com/jjjuni-0818/Dacon_repository)
 - 📜 **헬스케어 데이터 기반 인공지능 디지털 의료 웹 서비스 개발자 양성과정 수료** (2025.11.13 – 2026.05.11)
 
 ---
